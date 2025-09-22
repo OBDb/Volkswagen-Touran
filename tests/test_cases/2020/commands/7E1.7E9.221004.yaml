@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_TIRE_RL_SPD_V2: 0
   response: '7E9056210040000'
+- expected_values:
+    VOLKSWAGEN_TIRE_RL_SPD_V2: 0.8
+  response: '7E9056210040008'
