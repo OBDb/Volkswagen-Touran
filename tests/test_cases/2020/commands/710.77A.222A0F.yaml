@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_SSB_AH: 33
   response: 77A04622A0F21
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 38
+  response: 77A04622A0F26
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 39
+  response: 77A04622A0F27
+- expected_values:
+    VOLKSWAGEN_SSB_AH: 40
+  response: 77A04622A0F28
