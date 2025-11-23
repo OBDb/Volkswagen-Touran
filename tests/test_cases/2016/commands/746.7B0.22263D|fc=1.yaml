@@ -1,0 +1,8 @@
+command_id: 746.7B0.22263D|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CLIMATE_RR_DEFL_T: 17.316
+  response: 7B00462263D34
+- expected_values:
+    VOLKSWAGEN_CLIMATE_RR_DEFL_T: 17.649
+  response: 7B00462263D35
