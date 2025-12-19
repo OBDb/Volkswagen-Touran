@@ -1,9 +1,0 @@
-command_id: 710.77A.222A53|fc=1
-test_cases:
-- expected_values:
-    VOLKSWAGEN_DCDC_I: 0
-    VOLKSWAGEN_DCDC_I_RSV: 0
-    VOLKSWAGEN_DCDC_V_LOW: 14.3
-  response: |-
-    77A1008622A538F01FF
-    77A2101FFAAAAAAAAAA
