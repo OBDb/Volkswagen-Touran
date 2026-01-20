@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222005
+test_cases:
+- expected_values:
+    VOLKSWAGEN_BRAKE_BST_P: 0.251
+  response: 7E80562200500FB
+- expected_values:
+    VOLKSWAGEN_BRAKE_BST_P: 0.254
+  response: 7E80562200500FE
+- expected_values:
+    VOLKSWAGEN_BRAKE_BST_P: 0.318
+  response: 7E805622005013E
+- expected_values:
+    VOLKSWAGEN_BRAKE_BST_P: 0.33
+  response: 7E805622005014A

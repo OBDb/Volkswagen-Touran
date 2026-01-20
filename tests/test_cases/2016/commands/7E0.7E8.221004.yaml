@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221004
+test_cases:
+- expected_values:
+    VOLKSWAGEN_AAT_V3: 142.75
+  response: '7E8056210044760'
+- expected_values:
+    VOLKSWAGEN_AAT_V3: 143
+  response: '7E8056210044780'
+- expected_values:
+    VOLKSWAGEN_AAT_V3: 143.25
+  response: 7E80562100447A0
+- expected_values:
+    VOLKSWAGEN_AAT_V3: 145
+  response: '7E8056210044880'
