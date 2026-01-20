@@ -1,0 +1,23 @@
+command_id: 7E1.7E9.222104
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ATF_T: 7
+  response: 7E9056221042F00
+- expected_values:
+    VOLKSWAGEN_ATF_T: 8
+  response: '7E9056221043000'
+- expected_values:
+    VOLKSWAGEN_ATF_T: 9
+  response: '7E9056221043100'
+- expected_values:
+    VOLKSWAGEN_ATF_T: 10
+  response: '7E9056221043200'
+- expected_values:
+    VOLKSWAGEN_ATF_T: 11
+  response: '7E9056221043300'
+- expected_values:
+    VOLKSWAGEN_ATF_T: 12
+  response: '7E9056221043400'
+- expected_values:
+    VOLKSWAGEN_ATF_T: 13
+  response: '7E9056221043500'
