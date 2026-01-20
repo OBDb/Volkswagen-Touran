@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.224380
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ENG_TRQ_REQ_2: 0.5
+  response: '7E8056243800005'
+- expected_values:
+    VOLKSWAGEN_ENG_TRQ_REQ_2: 39.3
+  response: '7E8056243800189'
+- expected_values:
+    VOLKSWAGEN_ENG_TRQ_REQ_2: 6542
+  response: 7E805624380FF8C
+- expected_values:
+    VOLKSWAGEN_ENG_TRQ_REQ_2: 6553.4
+  response: 7E805624380FFFE
