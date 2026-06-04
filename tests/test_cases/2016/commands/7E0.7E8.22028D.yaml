@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ECU_TEMP: 35
   response: 7E80562028D015E
+- expected_values:
+    VOLKSWAGEN_ECU_TEMP: 46
+  response: 7E80562028D01CC

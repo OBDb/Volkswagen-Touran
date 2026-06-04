@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2220A1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_CALCULATED_OIL_T: -37
+  response: 7E8056220A1033E
