@@ -1,5 +1,8 @@
 command_id: 714.77E.22224B|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_DASH_OIL_THERMAL_WEAR: 24
+  response: 77E0562224B0018
+- expected_values:
     VOLKSWAGEN_DASH_OIL_THERMAL_WEAR: 415
   response: 77E0562224B019F
