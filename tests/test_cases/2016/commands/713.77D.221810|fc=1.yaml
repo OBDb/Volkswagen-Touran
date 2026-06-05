@@ -3,6 +3,11 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
   response: |-
+    77D100C62181000000A
+    77D21FD847FFFFFFFAA
+- expected_values:
+    VOLKSWAGEN_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
     77D100C621810000014
     77D21FD287FFFFFFFAA
 - expected_values:
