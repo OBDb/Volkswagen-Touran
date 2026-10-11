@@ -1,8 +1,8 @@
 command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_CABIN: -48
+    TOURAN_OUTSIDE_T_SYSTEM: 2
   response: 7B00462260A04
 - expected_values:
-    VOLKSWAGEN_AAT_CABIN: -33.5
+    TOURAN_OUTSIDE_T_SYSTEM: 16.5
   response: 7B00462260A21

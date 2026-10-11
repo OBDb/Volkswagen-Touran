@@ -1,8 +1,8 @@
 command_id: 714.77E.222211|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_CHG_AIR_P: 0
+    TOURAN_PQ35_CHG_AIR_P: 0
   response: '77E056222110000'
 - expected_values:
-    VOLKSWAGEN_PQ35_CHG_AIR_P: 0
+    TOURAN_PQ35_CHG_AIR_P: 0
   response: '77E056222110028'

@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.221004
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_V3: 119.75
+    TOURAN_AAT_V2_V2: 119.75
   response: 7E8056210043BE0
 - expected_values:
-    VOLKSWAGEN_AAT_V3: 120
+    TOURAN_AAT_V2_V2: 120
   response: 7E8056210043C00
 - expected_values:
-    VOLKSWAGEN_AAT_V3: 142.75
+    TOURAN_AAT_V2_V2: 142.75
   response: '7E8056210044760'
 - expected_values:
-    VOLKSWAGEN_AAT_V3: 143
+    TOURAN_AAT_V2_V2: 143
   response: '7E8056210044780'
 - expected_values:
-    VOLKSWAGEN_AAT_V3: 143.25
+    TOURAN_AAT_V2_V2: 143.25
   response: 7E80562100447A0
 - expected_values:
-    VOLKSWAGEN_AAT_V3: 145
+    TOURAN_AAT_V2_V2: 145
   response: '7E8056210044880'
 - expected_values:
-    VOLKSWAGEN_AAT_V3: 185.5
+    TOURAN_AAT_V2_V2: 185.5
   response: 7E8056210045CC0

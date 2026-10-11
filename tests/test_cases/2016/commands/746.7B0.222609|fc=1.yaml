@@ -1,18 +1,14 @@
 command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: 2
-    VOLKSWAGEN_AAT_V2: 2
+    TOURAN_AAT: 2
   response: 7B00462260904
 - expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: 3
-    VOLKSWAGEN_AAT_V2: 3
+    TOURAN_AAT: 3
   response: 7B00462260906
 - expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: 16.5
-    VOLKSWAGEN_AAT_V2: 16.5
+    TOURAN_AAT: 16.5
   response: 7B00462260921
 - expected_values:
-    VOLKSWAGEN_AAT_FROMCABIN: 19
-    VOLKSWAGEN_AAT_V2: 19
+    TOURAN_AAT: 19
   response: 7B00462260926

@@ -1,26 +1,20 @@
 command_id: 746.7B0.222613|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CABIN_T: 22.8
-    VOLKSWAGEN_HVAC_IAT: 22.8
+    TOURAN_CABIN_T: 22.8
   response: 7B00562261300E4
 - expected_values:
-    VOLKSWAGEN_CABIN_T: 23.1
-    VOLKSWAGEN_HVAC_IAT: 23.1
+    TOURAN_CABIN_T: 23.1
   response: 7B00562261300E7
 - expected_values:
-    VOLKSWAGEN_CABIN_T: 23.3
-    VOLKSWAGEN_HVAC_IAT: 23.3
+    TOURAN_CABIN_T: 23.3
   response: 7B00562261300E9
 - expected_values:
-    VOLKSWAGEN_CABIN_T: 24
-    VOLKSWAGEN_HVAC_IAT: 24
+    TOURAN_CABIN_T: 24
   response: 7B00562261300F0
 - expected_values:
-    VOLKSWAGEN_CABIN_T: 24.1
-    VOLKSWAGEN_HVAC_IAT: 24.1
+    TOURAN_CABIN_T: 24.1
   response: 7B00562261300F1
 - expected_values:
-    VOLKSWAGEN_CABIN_T: 24.8
-    VOLKSWAGEN_HVAC_IAT: 24.8
+    TOURAN_CABIN_T: 24.8
   response: 7B00562261300F8
