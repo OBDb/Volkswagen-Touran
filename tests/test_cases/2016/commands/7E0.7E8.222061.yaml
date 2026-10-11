@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.222061
 test_cases:
 - expected_values:
-    VOLKSWAGEN_APP_POS1: 0.737
+    TOURAN_APP_POS1: 0.737
   response: 7E80562206102E1
 - expected_values:
-    VOLKSWAGEN_APP_POS1: 0.742
+    TOURAN_APP_POS1: 0.742
   response: 7E80562206102E6
 - expected_values:
-    VOLKSWAGEN_APP_POS1: 0.747
+    TOURAN_APP_POS1: 0.747
   response: 7E80562206102EB
 - expected_values:
-    VOLKSWAGEN_APP_POS1: 0.752
+    TOURAN_APP_POS1: 0.752
   response: 7E80562206102F0
 - expected_values:
-    VOLKSWAGEN_APP_POS1: 1.333
+    TOURAN_APP_POS1: 1.333
   response: '7E8056220610535'

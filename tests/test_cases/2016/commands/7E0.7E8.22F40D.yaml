@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.22F40D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 0
+    TOURAN_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 6
+    TOURAN_VSS: 6
   response: 7E80462F40D06
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 15
+    TOURAN_VSS: 15
   response: 7E80462F40D0F
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 39
+    TOURAN_VSS: 39
   response: 7E80462F40D27
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 49
+    TOURAN_VSS: 49
   response: 7E80462F40D31

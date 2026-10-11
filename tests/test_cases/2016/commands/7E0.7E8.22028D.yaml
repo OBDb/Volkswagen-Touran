@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.22028D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 23
+    TOURAN_ENG_CTRL_MODULE_T: 23
   response: 7E80562028D00E6
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 33
+    TOURAN_ENG_CTRL_MODULE_T: 33
   response: 7E80562028D014A
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 34
+    TOURAN_ENG_CTRL_MODULE_T: 34
   response: 7E80562028D0154
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 35
+    TOURAN_ENG_CTRL_MODULE_T: 35
   response: 7E80562028D015E
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 46
+    TOURAN_ENG_CTRL_MODULE_T: 46
   response: 7E80562028D01CC

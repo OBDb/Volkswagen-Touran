@@ -1,23 +1,23 @@
 command_id: 7E1.7E9.221001
 test_cases:
 - expected_values:
-    VOLKSWAGEN_TIRE_FR_SPD_V3: 255
+    TOURAN_TCM_1001_RAW: 30208
   response: '7E9056210017600'
 - expected_values:
-    VOLKSWAGEN_TIRE_FR_SPD_V3: 255
+    TOURAN_TCM_1001_RAW: 31232
   response: 7E9056210017A00
 - expected_values:
-    VOLKSWAGEN_TIRE_FR_SPD_V3: 255
+    TOURAN_TCM_1001_RAW: 32256
   response: 7E9056210017E00
 - expected_values:
-    VOLKSWAGEN_TIRE_FR_SPD_V3: 255
+    TOURAN_TCM_1001_RAW: 33536
   response: '7E9056210018300'
 - expected_values:
-    VOLKSWAGEN_TIRE_FR_SPD_V3: 255
+    TOURAN_TCM_1001_RAW: 33792
   response: '7E9056210018400'
 - expected_values:
-    VOLKSWAGEN_TIRE_FR_SPD_V3: 255
+    TOURAN_TCM_1001_RAW: 34048
   response: '7E9056210018500'
 - expected_values:
-    VOLKSWAGEN_TIRE_FR_SPD_V3: 255
+    TOURAN_TCM_1001_RAW: 35584
   response: 7E9056210018B00

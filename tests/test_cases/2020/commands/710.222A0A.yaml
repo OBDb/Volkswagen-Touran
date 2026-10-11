@@ -1,5 +1,5 @@
 command_id: 710.222A0A
 test_cases:
 - expected_values:
-    VOLKSWAGEN_BAT_T: 26
+    TOURAN_MQB_BAT_SEN_T: 26
   response: 77A04622A0A42
