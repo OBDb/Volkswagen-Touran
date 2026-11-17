@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.223841
 test_cases:
 - expected_values:
-    TOURAN_MQB_TCM_ODO: 73924940.8
+    TOURAN_MQB_TCM_ODO: 85610.8
   response: 7E9076238412C100D00
 - expected_values:
-    TOURAN_MQB_TCM_ODO: 162699904
+    TOURAN_MQB_TCM_ODO: 65392
   response: 7E90762384160FA0900
